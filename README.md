@@ -5,7 +5,7 @@ This project demonstrates basic game logic, DOM manipulation, event handling, an
 
 ---
 
-## 🌟 Features
+## 🌟 Features 
 
 - 🚘 Player-controlled car movement  
 - 🎯 Obstacle generation  
